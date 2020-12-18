@@ -1,0 +1,23 @@
+{
+
+  "manifest_version": 2,
+  "name": "Block",
+  "version": "1.0",
+
+  "description": "Block website",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "permissions": [
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking"
+    ],
+
+  "background": {
+      "scripts": ["background-script.js"]
+  }
+
+}
