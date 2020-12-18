@@ -15,7 +15,7 @@ in `firefox/distribution/policies.json`
 {
         "policies": {
                 "WebsiteFilter": {
-                        "Block": ["*://*.pinterest.com/*","*://*.facebook.com/*","*://*.IHATETHESEGUYS.net/*"]
+                        "Block": ["*://*.pinterest.com/*","*://*.facebook.com/*"]
                 }
         }
 }
