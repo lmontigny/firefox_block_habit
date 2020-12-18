@@ -14,7 +14,6 @@ const filter = {
   urls: [
     '*://news.ycombinator.com/*',
     '*://*.lemonde.fr/*',
-    '*://*.lefigaro.fr/*',
   ],
 }
 
